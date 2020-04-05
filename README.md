@@ -1,7 +1,7 @@
 Natural Language Processing
 
-This is a marketing analytics on how public think of Iphone before release and
-data was collected from popular HK forums
+This was an text analytic on how public think of "Key Word" search on HK forums
+Data was collected from popular HK forums
 
 
 Approach :
