@@ -1,6 +1,6 @@
 Natural Language Processing
 
-This was an text analytic on how public think of "Key Word" search on HK forums
+This was an text mining on how public think of "Key Word" search on HK forums
 Data was collected from popular HK forums
 
 
